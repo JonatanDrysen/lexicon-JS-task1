@@ -27,3 +27,12 @@ suggests. the value has to be constant and cannot be reassigned with the '=' ope
 'let' or 'var'. this is useful because it employs the concept of immutability, which is 
 important.
 */
+
+// task 5
+/* 
+after discussing this with my imaginary friend Carl, we concluded that a good case for 
+using booleans is when dealing with conditionals rendering. for example, i want to execute 
+one of two blocks of code which render different things depending on if a user is logged 
+in or not. i can then use an 'isLoggedIn' booelean property in the user object to know 
+which block to execute depending on if the value is 'true' or 'false'.
+*/

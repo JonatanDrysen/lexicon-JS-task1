@@ -45,3 +45,8 @@ a new data type to it, and therefore breaking the code. by declaring it with 'co
 get an immediate syntax error if we try to redeclare it, thus saving alot of time 
 debugging if something like that happened with a mutable variable.
 */
+
+// task 7
+const number1 = 5; const number2 = 7
+const result = number1 + number2; console.log(result)
+

@@ -10,4 +10,9 @@ const modelYear = 1996 // 'const' needs to be initialized and cannot be reassign
 console.log(`my car is a ${manufacturer} ${model} from ${modelYear}.`)
 
 // task 3:
-
+const day = "wednesday"
+const week = 2
+let isItSaturday = false
+console.log(`today is ${day}!`)
+console.log(`it is currently week ${week}`)
+console.log(`but is it saturday? ${isItSaturday}!`)

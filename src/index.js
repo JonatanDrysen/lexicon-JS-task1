@@ -16,3 +16,14 @@ let isItSaturday = false
 console.log(`today is ${day}!`)
 console.log(`it is currently week ${week}`)
 console.log(`but is it saturday? ${isItSaturday}!`)
+
+// task 4: 
+const name = "jonatan"; console.log("my name is", name)
+// const name = "drysen"; console.log("my name is", name)
+
+/*
+when using 'const', you can only initialize the variable once, which the name "constant" 
+suggests. the value has to be constant and cannot be reassigned with the '=' operator like 
+'let' or 'var'. this is useful because it employs the concept of immutability, which is 
+important.
+*/

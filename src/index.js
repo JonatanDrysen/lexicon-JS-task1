@@ -50,3 +50,8 @@ debugging if something like that happened with a mutable variable.
 const number1 = 5; const number2 = 7
 const result = number1 + number2; console.log(result)
 
+// task 8
+const result1 = number1 - number2
+const result2 = number1 * number2
+const result3 = number1 / number2
+console.log(result1, result2, result3)

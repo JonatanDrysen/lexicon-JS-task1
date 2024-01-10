@@ -1,0 +1,1 @@
+# Task 1 for Lexcicon JavaScript class

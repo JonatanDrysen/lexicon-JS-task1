@@ -36,3 +36,12 @@ one of two blocks of code which render different things depending on if a user i
 in or not. i can then use an 'isLoggedIn' booelean property in the user object to know 
 which block to execute depending on if the value is 'true' or 'false'.
 */
+
+// task 6:
+/*
+we should declare the variable with 'const', since we know the value won't be changed.
+by making said variable immutable, we avoid problems where one might accidentally assign
+a new data type to it, and therefore breaking the code. by declaring it with 'const' we 
+get an immediate syntax error if we try to redeclare it, thus saving alot of time 
+debugging if something like that happened with a mutable variable.
+*/

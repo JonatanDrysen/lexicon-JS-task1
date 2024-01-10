@@ -55,3 +55,14 @@ const result1 = number1 - number2
 const result2 = number1 * number2
 const result3 = number1 / number2
 console.log(result1, result2, result3)
+
+// task 9
+let a = 2
+console.log(a)
+a = a + 5
+console.log(a)
+
+//task 10
+/*
+the value of a becomes 7 (2 + 5 = 7)
+*/
